@@ -22,3 +22,5 @@ Private markdown database for Prospa Financial. This repo is designed as a groun
 ## Current status
 
 Structure scaffolded. Content population pending approved source harvest and interview capture.
+
+**18 Sep 2026 — `11-crm-build/` added:** the CRM build blueprint (what exists at each of the 45 pipeline stages, what still needs building, the decisions Prospa owns, six sketches). Generated from the `prospa-build-blueprint` board; do not hand-edit — see `11-crm-build/README.md`.
